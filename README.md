@@ -6,4 +6,5 @@
 - 🔭 Currently working on my portfolio
 - 👩🏻‍💻 Currently fighting for my life and degree
 - 🫶🏼 Knowledgeable in HTML, CSS, FIGMA, AND OTHER BASIC IT THINGZSS
+- 🦄 Future Bachelor of Science in Information Technology Major in Web Technology Degree Holder
 
