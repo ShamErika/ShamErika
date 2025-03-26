@@ -17,3 +17,17 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="40" title="Figma"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="40" title="Git"/>
 </p>
+
+## 🎆 Animated Icons
+
+<style>
+  .rotate { animation: rotation 2s infinite linear; }
+  @keyframes rotation { from { transform: rotate(0deg); } to { transform: rotate(359deg); } }
+  .pulse { animation: pulse 1.5s infinite ease-in-out; }
+  @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.1); } 100% { transform: scale(1); } }
+</style>
+
+<p align="left">
+  <img class="rotate" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img class="pulse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+</p>
