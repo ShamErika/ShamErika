@@ -18,16 +18,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="40" title="Git"/>
 </p>
 
-## 🎆 Animated Icons
+## 🚀 Advanced Animations
 
-<style>
-  .rotate { animation: rotation 2s infinite linear; }
-  @keyframes rotation { from { transform: rotate(0deg); } to { transform: rotate(359deg); } }
-  .pulse { animation: pulse 1.5s infinite ease-in-out; }
-  @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.1); } 100% { transform: scale(1); } }
-</style>
-
-<p align="left">
-  <img class="rotate" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-  <img class="pulse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-</p>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets3.lottiefiles.com/packages/lf20_gn0tojcq.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
