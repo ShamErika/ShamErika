@@ -1,11 +1,11 @@
-## hi👋
+## Hi👋
 
-💻 Front-end developer in the making | 🎨 delulu UI enthusiast | ✨ CSS lover(scam)
+💻 Front-end developer in the making | 🎨 Delulu UI enthusiast | ✨ CSS lover (scam)
 
 ## About Me
 - 🔭 Currently working on my portfolio
 - 👩🏻‍💻 Currently fighting for my life and degree
-- 🫶🏼 Knowledgeable in HTML, CSS, FIGMA, AND OTHER BASIC IT THINGZSS
+- 🫶🏼 Knowledgeable in HTML, CSS, Figma, and other basic IT things
 - 🦄 Future Bachelor of Science in Information Technology Major in Web Technology Degree Holder
 
 ## 🛠️ My Stack
@@ -18,4 +18,22 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="40" title="Git"/>
 </p>
 
+## 📊 GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="165">
+</p>
+
+## 🐍 Contribution Snake  
+![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+
+## 🎨 More About Me
+- 🤡 Professional Googler  
+- 🧃 Boba Enthusiast  
+- 🎶 Spotify Addict  
+- 🏠 Baguio-based Coder 🌲  
+
+## 🌎 Find Me Here
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
