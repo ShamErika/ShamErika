@@ -25,7 +25,7 @@
 </p>
 
 ## 🐍 Contribution Snake  
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ShamErika/ShamErika/blob/output/github-contribution-grid-snake.svg)
 
 ## 🎨 More About Me
 - 🤡 Professional Googler  
