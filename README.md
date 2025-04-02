@@ -10,13 +10,20 @@
 
 ## 🛠️ My Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="40" title="GitHub"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="40" title="CSS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="40" title="HTML"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="40" title="Figma"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="40" title="Git"/>
-</p>
+const TechBadges = () => {
+  return (
+    <div className="flex gap-4 items-center">
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="40" title="GitHub" alt="GitHub Badge" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="40" title="CSS" alt="CSS Badge" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="40" title="HTML" alt="HTML Badge" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="40" title="Figma" alt="Figma Badge" />
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="40" title="Git" alt="Git Badge" />
+    </div>
+  );
+};
+
+export default TechBadges;
+
 
 ## 📊 GitHub Stats  
 <p align="left">
