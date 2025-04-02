@@ -29,10 +29,8 @@ export default TechBadges;
 
 
 ## 🎨 More About Me
-- 🤡 Professional Googler  
-- 🧃 Boba Enthusiast  
-- 🎶 Spotify Addict  
-- 🏠 Baguio-based Coder 🌲  
+- 🤡 Professional Sleeper  
+- 🧃 Boba Addict
 
 
 
