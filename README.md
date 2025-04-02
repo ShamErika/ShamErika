@@ -33,7 +33,6 @@
 - 🎶 Spotify Addict  
 - 🏠 Baguio-based Coder 🌲  
 
-## 🌎 Find Me Here
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ShamErika/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+
+
 
