@@ -24,8 +24,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShamErika&theme=radical" height="165">
 </p>
 
-## 🐍 Contribution Snake  
-![Snake animation](https://github.com/ShamErika/ShamErika/blob/output/github-contribution-grid-snake.svg)
 
 ## 🎨 More About Me
 - 🤡 Professional Googler  
