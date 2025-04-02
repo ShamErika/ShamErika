@@ -20,8 +20,8 @@
 
 ## 📊 GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShamErika&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShamErika&theme=radical" height="165">
 </p>
 
 ## 🐍 Contribution Snake  
@@ -34,6 +34,6 @@
 - 🏠 Baguio-based Coder 🌲  
 
 ## 🌎 Find Me Here
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ShamErika/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
