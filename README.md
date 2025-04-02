@@ -20,14 +20,6 @@
 </p>\
 export default TechBadges;
 
-
-## 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShamErika&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShamErika&theme=radical" height="165">
-</p>
-
-
 ## 🎨 More About Me
 - 🤡 Professional Sleeper  
 - 🧃 Boba Addict
