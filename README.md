@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="40" title="Git"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" height="40" title="React" alt="React Badge" />
 </p>\
-export default TechBadges;
+
 
 ## 🎨 More About Me
 - 🤡 Professional Sleeper  
