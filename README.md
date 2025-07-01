@@ -27,7 +27,7 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/<your-username>/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ShamErika/snk/output/github-contribution-grid-snake.svg)
 
 
 
